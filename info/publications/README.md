@@ -49,3 +49,6 @@
 
 - [KOM Group, Germany (April 9th, 2020)](https://blog.multimedia-communications.net/dieser-neue-corona-test-zaehlt-buchstaeblich/)
 
+### Greek
+
+- [DisruptCyprusLive, Cyprus (April 22nd, 2020)](https://m.facebook.com/story.php?story_fbid=225270358536524&id=769965766390700)
