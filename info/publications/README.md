@@ -1,6 +1,6 @@
 ## Reports & Publications
 
-- [First report. Measuring Icebergs: Using Different Methods to Estimate the Number of COVID-19 Cases in Portugal and Spain](https://github.com/GCGImdea/coronasurveys/blob/master/reports/2020-03-29-CaseEstimation.pdf)
+- [Measuring Icebergs: Using Different Methods to Estimate the Number of COVID-19 Cases in Portugal and Spain, March 2020.](https://coronasurveys.org/results/papers/Measuring_Icebergs__Using_Different_Methods_to_Estimate_the_Number_of_COVID_19_Cases_in_Portugal_and_Spain_v1.pdf)
 
 ## Media presence
 
