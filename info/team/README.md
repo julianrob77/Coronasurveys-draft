@@ -34,6 +34,7 @@ The study is conducted by a team led by the Research Professor Antonio Fernandez
 - Harold Hernández
 - Rodrigo Irarrazaval
 - Alvaro Méndez
+- Paul Rimba
 - Erol Sahin
 - Ghadi Sebaali
 - Natalie Soto
