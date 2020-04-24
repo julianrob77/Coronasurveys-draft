@@ -1,5 +1,7 @@
 ### References on Methods to Estimate the Number of Cases
 
+- Manuel Linares, Ignacio Garitano, Laura Santos, José M Ramos. Estimando el número de casos de COVID-19 a tiempo real utilizando un formulario web a través de las redes sociales: Proyecto COVID19-TRENDS. Estimation of the number of cases of COVID-19 in real time using a web form through social networks: Project COVID19-TRENDS. Medicina de Familia. SEMERGEN, April 2020. https://doi.org/10.1016/j.semerg.2020.04.001
+
 - Hiroshi Nishiura et al. Early Epidemiological Assessment of the Virulence of Emerging Infectious Diseases: A Case Study of an Influenza Pandemic. Plos One. August 31, 2009. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006852
 
 - James Gorman. The Coronavirus, by the Numbers. The New York Times, March 5th, 2020. https://www.nytimes.com/2020/03/05/health/coronavirus-deaths-rates.html
