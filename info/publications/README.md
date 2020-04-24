@@ -1,6 +1,6 @@
 ## Reports & Publications
 
-- [Measuring Icebergs: Using Different Methods to Estimate the Number of COVID-19 Cases in Portugal and Spain, March 2020.](https://coronasurveys.org/results/papers/Measuring_Icebergs__Using_Different_Methods_to_Estimate_the_Number_of_COVID_19_Cases_in_Portugal_and_Spain_v1.pdf)
+- Carlos Baquero, Paolo Casari, Antonio Fernandez Anta, Davide Frey, Augusto Garcia-Agundez, Chryssis Georgiou, Raquel Menezes, Nicolas Nicolaou, Oluwasegun Ojo, Paul Patras. [Measuring Icebergs: Using Different Methods to Estimate the Number of COVID-19 Cases in Portugal and Spain,](https://medrxiv.org/cgi/content/short/2020.04.20.20073056v1)  medRxiv, April 2020. doi: https://doi.org/10.1101/2020.04.20.20073056
 
 ## Media presence
 
