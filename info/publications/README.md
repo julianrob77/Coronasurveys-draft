@@ -49,6 +49,7 @@
 ### German
 
 - [KOM Group, Germany (April 9th, 2020)](https://blog.multimedia-communications.net/dieser-neue-corona-test-zaehlt-buchstaeblich/)
+- [Darmstaedter Echo, Germany (April 29th, 2020)](https://www.echo-online.de/panorama/aus-aller-welt/wissenschaftler-der-tu-darmstadt-arbeiten-an-corona-app_21607313)
 
 ### Greek
 
