@@ -22,6 +22,7 @@ The study is conducted by a team led by the Research Professor Antonio Fernandez
 - Oluwasegun Ojo, IMDEA Networks & UC3M,Spain
 - Antonio Ortega, USC, USA
 - Paul Patras, U. Edinburgh, UK
+- Julian Roberts, Consulting, UK
 - Efstathios Stavrakis, Algolysis Ltd, Cyprus
 - Yuichi Tanaka, Tokyo University of Agriculture and Technology, Japan
 - Christopher Thraves, U. Concepción, Chile
@@ -40,5 +41,5 @@ The study is conducted by a team led by the Research Professor Antonio Fernandez
 - Natalie Soto
 - Matias Spatz Fernández
 
-- Crowdfight COVID-19 https://crowdfightcovid19.org/
+- [Crowdfight COVID-19](https://crowdfightcovid19.org/)
 
