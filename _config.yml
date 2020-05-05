@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 url: https://julianrob77.github.io/Coronasurveys-draft
 title: <a href="http://www.zina-studio.com/">
-         <img src="https://raw.githubusercontent.com/GCGImdea/coronasurveys/master/artwork/quixote_fights_corona.jpg" 
-         height="100" width="200" style="text-align:left">
+         <img src="https://julianrob77.github.io/Coronasurveys-draft/assets/coronasurveys_logo.png" 
+        style="text-align:center">
       </a> <br>
       <font size="5"> <span>&#64;</span>CoronaSurveys<span>&#58;</span> Monitoring the Incidence of COVID-19 via Open Surveys </font>  
 github:
