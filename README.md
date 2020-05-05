@@ -268,10 +268,10 @@ You can help by regularly completing the anonymous survey.
 <option value="https://survey.coronasurveys.org/ZM">Zambia</option>
 <option value="https://survey.coronasurveys.org/ZW">Zimbabwe</option>
 </select>
-	<h2>Click on your location to start a survey in your language</h2>
+
+## Click on your location to start a survey in your language
+
   <div id="map"></div>
-
-
 
 ### Estimates obtained by CoronaSurveys
 
