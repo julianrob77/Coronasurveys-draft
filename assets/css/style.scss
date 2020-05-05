@@ -29,3 +29,9 @@
 }
 
 .dropdown {text-align: center;}
+
+@media screen and (min-width: 64em){
+.page-header {
+    padding: 0rem 6rem;
+}
+}
