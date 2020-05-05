@@ -268,36 +268,9 @@ You can help by regularly completing the anonymous survey.
 <option value="https://survey.coronasurveys.org/ZM">Zambia</option>
 <option value="https://survey.coronasurveys.org/ZW">Zimbabwe</option>
 </select>
-	
-	
+	<h2>Click on your location to start a survey in your language</h2>
+  <div id="map"></div>
 
-[Argentina-Spanish](https://tinyurl.com/coronasurveysargentina){: .btn}
-[Australia-English](https://tinyurl.com/coronasurveysaustralia){: .btn}
-[Canada-English](https://tinyurl.com/coronasurveyscanada){: .btn}
-[Chile-Spanish](https://tinyurl.com/coronasurveyschile){: .btn}
-[Cyprus-Greek](https://tinyurl.com/coronasurveyscyprus){: .btn}
-[Ecuador-Spanish](https://tinyurl.com/coronasurveysecuador){: .btn}
-[France-French](https://tinyurl.com/coronasurveysfrance){: .btn}
-[Germany-German](https://tinyurl.com/coronasurveysgermany){: .btn}
-[Greece-Greek](https://tinyurl.com/coronasurveysgreece){: .btn}
-[Indonesia-Indonesian](https://tinyurl.com/coronasurveysindonesia){: .btn}
-[Iran-Persian](https://tinyurl.com/coronasurveysiran){: .btn}
-[Italy-Italian](https://tinyurl.com/coronasurveysitaly){: .btn}
-[Japan-Japanese](https://tinyurl.com/coronasurveysjapan){: .btn}
-[Lebanon-Arabic](https://tinyurl.com/coronasurveyslebanon){: .btn}
-[Netherlands-English](https://tinyurl.com/coronasurveysnetherlands){: .btn}
-[Nigeria-English](https://tinyurl.com/coronasurveysnigeria){: .btn}
-[Portugal-Portuguese](https://tinyurl.com/coronasurveysportugal){: .btn}
-[Spain-Spanish](https://tinyurl.com/coronasurveysspain){: .btn}
-[Sweden-English](https://tinyurl.com/coronasurveyssweden){: .btn}
-[Turkey-Turkish](https://tinyurl.com/coronasurveysturkey){: .btn}
-[UK-English](https://tinyurl.com/coronasurveysuk){: .btn}
-[Ukraine-Ukrainian](https://tinyurl.com/coronasurveysukraine){: .btn}
-[USA-English](https://tinyurl.com/coronasurveysusa){: .btn}
-[Venezuela-Spanish](https://tinyurl.com/coronasurveysvenezuela){: .btn}
-
-[Arab Countries-Arabic](https://tinyurl.com/coronasurveysarabworld){: .btn}
-[Rest of the World-English](https://tinyurl.com/coronasurveysworld){: .btn}
 
 
 ### Estimates obtained by CoronaSurveys
