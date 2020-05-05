@@ -54,6 +54,10 @@ a#skip-to-content {
 
 .dropdown {text-align: center;}
 
+#map_inner tspan {
+    display: none;
+}
+
 @media screen and (min-width: 64em){
 .page-header {
     padding: 0rem 6rem!important;
