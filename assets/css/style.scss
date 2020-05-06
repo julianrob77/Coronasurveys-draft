@@ -8,10 +8,30 @@ a#skip-to-content {
 }
 
 .logo img {
-    width: 95%;
+    width: 65%;
 }
 
 .logo {width: 100%; padding: 0px; margin: 0; background: #fff; }
+
+.project-tagline {
+    margin-bottom: 2rem;
+    font-weight: normal;
+    opacity: 1.0;
+}
+
+.page-header {
+    color: #000;
+    text-align: center;
+    background-color: #fff;
+    background-image: url('/CDC_Coronavirus.jpg');
+    margin: 10px 0px;
+    border-bottom: 1px solid #333;
+}
+
+#logos-main {
+    text-align: center;
+    margin: 10% 0;
+}
 
 .btn {
     display: inline-block;
@@ -26,11 +46,19 @@ a#skip-to-content {
     font-size: 13px;
 }
 
-.btn:hover{
-    color: rgba(0,0,0,0.7);
-    text-decoration:none;
-    background-color: rgba(0,0,0,0.08);
+.btn:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: #2a8a90;
     border-color: rgba(0,0,0,0.2);
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #4500c5;
+    text-align: center;
 }
 
 #logos-main{
@@ -38,6 +66,23 @@ a#skip-to-content {
 }
 
 .dropdown {text-align: center;}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #159957;
+    text-align: center;
+}
+
+.main-content p {
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+#map_inner tspan {
+    display: none;
+}
 
 @media screen and (min-width: 64em){
 .page-header {
