@@ -47,7 +47,7 @@ You can help by regularly completing the anonymous survey.
 
       
 [Frequently Asked Questions](info/FAQ/){: .btn}
-<div id="dropdown">
+<div class="dropdown-section">
 ### Contribute and fill the anonymous survey for a country:
 
 <select id='Choose A Country' onchange="location = this.value;">
