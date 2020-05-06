@@ -73,8 +73,11 @@ a#skip-to-content {
     text-align: center;
 }
 
-#logos-main{
-	text-align: center
+.main-content p {
+    margin-bottom: 1em;
+    text-align: center;
+    border-bottom: 1px solid #cacaca;
+    padding-bottom: 1.5rem;
 }
 
 .dropdown {text-align: center;}
