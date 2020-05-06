@@ -26,6 +26,10 @@ a#skip-to-content {
     margin-top: 1em;
 }
 
+select {
+  -webkit-appearance: none;
+}
+
 .page-header {
     color: #000;
     text-align: center;
