@@ -41,5 +41,6 @@ The study is conducted by a team led by the Research Professor Antonio Fernandez
 - Natalie Soto
 - Matias Spatz Fernández
 
+
 - [Crowdfight COVID-19](https://crowdfightcovid19.org/)
 
