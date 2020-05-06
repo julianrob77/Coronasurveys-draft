@@ -31,8 +31,8 @@ a#skip-to-content {
     text-align: center;
     background-color: #fff;
     background-image: url('https://julianrob77.github.io/Coronasurveys-draft/assets/CDC_Coronavirus.jpg');
-    margin: 10px 0px;
-    border-bottom: 1px solid #333;
+    margin: 0;
+    border-bottom: 1px solid #cacaca;
 }
 
 .main-content img {
@@ -112,7 +112,7 @@ div#map {
 
 @media screen and (min-width: 64em){
 .page-header {
-    padding: 0rem 6rem!important;
+    padding: 2rem 6rem!important;
 }
 
 .main-content {
