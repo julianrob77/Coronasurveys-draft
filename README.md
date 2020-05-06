@@ -291,7 +291,7 @@ You can help by regularly completing the anonymous survey.
 <iframe src="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NG&var-country=Nigeria&var-region=All" width="100%" height="500" frameborder="0"></iframe>
 
 <a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NG&var-country=Nigeria&var-region=All" > <center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
-<p>Choose a country for data:</p>
+<h3>Choose a country for data:</h3>
 [Argentina](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=AR&var-country=Argentina&var-region=All){: .btn}
 [Australia](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=AU&var-country=Australia&var-region=All){: .btn}
 [Canada](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=CA&var-country=Canada&var-region=All){: .btn}
