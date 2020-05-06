@@ -8,41 +8,41 @@ You can help by regularly completing the anonymous survey.
    
 <div id="logos-main">
 	<!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
-         <a href="https://www.networks.imdea.org/">
-         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/imdea-networks-positivo-color.jpg" target="_blank" height="50" width="100">
+         <a href="https://www.networks.imdea.org/" target="_blank">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/imdea-networks-positivo-color.jpg" height="50" width="100">
          </a> 
-         <a href="https://www.ucy.ac.cy/en/">
-         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/University_of_Cyprus_2gr.jpg" target="_blank" height="50" width="150">
+         <a href="https://www.ucy.ac.cy/en/" target="_blank">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/University_of_Cyprus_2gr.jpg" height="50" width="150">
          </a> 
-         <a href="https://www.algolysis.com/">
-         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg" target="_blank" height="50" width="150">
+         <a href="https://www.algolysis.com/" target="_blank">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg" height="50" width="150">
          </a> 
-         <a href="https://viterbischool.usc.edu/">
-         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/Formal_Viterbi_CardOnWhite.jpg" target="_blank" height="50" width="130">
+         <a href="https://viterbischool.usc.edu/ "target="_blank"> 
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/Formal_Viterbi_CardOnWhite.jpg" height="50" width="130">
          </a> 
-         <a href="https://www.tu-darmstadt.de/index.en.jsp">
-         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/tud_logo.jpg" target="_blank" height="50" width="120">
+         <a href="https://www.tu-darmstadt.de/index.en.jsp" target="_blank">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/tud_logo.jpg" height="50" width="120">
          </a> 
-         <a href="https://www.tuat.ac.jp/en/">
-         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/tat_2.jpg" target="_blank" height="50" width="100">
+         <a href="https://www.tuat.ac.jp/en/" target="_blank">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/tat_2.jpg" height="50" width="100">
          </a> 
-         <a href="https://www.ed.ac.uk/informatics">
+         <a href="https://www.ed.ac.uk/informatics" target="_blank">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/InformaticsUni_transparent.gif" height="50" width="180">
          </a> 
-         <a href="https://www.uminho.pt/EN">
-         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/UMinho.jpg" target="_blank" height="50" width="100">
+         <a href="https://www.uminho.pt/EN" target="_blank">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/UMinho.jpg" height="50" width="100">
          </a> 
-         <a href="https://www.inesctec.pt/en">
-         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/inesctec.jpg" target="_blank" height="45" width="110">
+         <a href="https://www.inesctec.pt/en" target="_blank">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/inesctec.jpg" height="45" width="110">
          </a> 
-         <a href="https://www.unitn.it/en/">
-         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/newlogo_unitn_it.jpg" target="_blank" height="50" width="160">
+         <a href="https://www.unitn.it/en/" target="_blank">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/newlogo_unitn_it.jpg" height="50" width="160">
          </a> 
-         <a href="https://www.washington.edu/">
-         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/Logo-UW.jpg" target="_blank" height="50">
+         <a href="https://www.washington.edu/" target="_blank">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/Logo-UW.jpg" height="50">
          </a> 
-         <a href="https://www.ibidat.es">
-         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/IBIDat-logo-name-v.svg.jpg" target="_blank" height="50">
+         <a href="https://www.ibidat.es" target="_blank">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/IBIDat-logo-name-v.svg.jpg" height="50">
          </a>
 </div>
 
