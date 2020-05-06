@@ -47,7 +47,7 @@ You can help by regularly completing the anonymous survey.
 
       
 [Frequently Asked Questions](info/FAQ/){: .btn}
-
+<div id="dropdown">
 ### Contribute and fill the anonymous survey for a country:
 
 <select id='Choose A Country' onchange="location = this.value;">
@@ -267,6 +267,7 @@ You can help by regularly completing the anonymous survey.
 <option value="https://survey.coronasurveys.org/ZM">Zambia</option>
 <option value="https://survey.coronasurveys.org/ZW">Zimbabwe</option>
 </select>
+</div>
 
 ### Or, click on your location to start a survey in your language:
 
