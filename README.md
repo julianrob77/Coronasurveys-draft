@@ -8,7 +8,7 @@ You can help by regularly completing the anonymous survey.
    
 <div id="logos-main">
 	<!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
-         <a href="https://www.networks.imdea.org/" target="_blank">
+         <a href="https://www.networks.imdea.org" target="_blank">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/imdea-networks-positivo-color.jpg" height="50" width="100">
          </a> 
          <a href="https://www.ucy.ac.cy/en/" target="_blank">
@@ -23,7 +23,7 @@ You can help by regularly completing the anonymous survey.
          <a href="https://www.tu-darmstadt.de/index.en.jsp" target="_blank">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/tud_logo.jpg" height="50" width="120">
          </a> 
-         <a href="https://www.tuat.ac.jp/en/" target="_blank">
+         <a href="https://www.tuat.ac.jp/en" target="_blank">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/tat_2.jpg" height="50" width="100">
          </a> 
          <a href="https://www.ed.ac.uk/informatics" target="_blank">
@@ -35,10 +35,10 @@ You can help by regularly completing the anonymous survey.
          <a href="https://www.inesctec.pt/en" target="_blank">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/inesctec.jpg" height="45" width="110">
          </a> 
-         <a href="https://www.unitn.it/en/" target="_blank">
+         <a href="https://www.unitn.it/en" target="_blank">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/newlogo_unitn_it.jpg" height="50" width="160">
          </a> 
-         <a href="https://www.washington.edu/" target="_blank">
+         <a href="https://www.washington.edu" target="_blank">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/Logo-UW.jpg" height="50">
          </a> 
          <a href="https://www.ibidat.es" target="_blank">
