@@ -270,7 +270,7 @@ You can help by regularly completing the anonymous survey.
 </select>
 </div>
 
-### Or, click on your location to start a survey in your language:
+### Or, click on a location to start a survey:
 
   <div id="map"></div>
 
