@@ -48,6 +48,14 @@ a#skip-to-content {
     border-color: rgba(0,0,0,0.2);
 }
 
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #4500c5;
+    text-align: center;
+}
+
 #logos-main{
 	text-align: center
 }
