@@ -20,7 +20,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-  <link rel="stylesheet" href="assets/css/nav.css">
+     <link rel="stylesheet" href="{{ 'assets/css/nav.css' | relative_url }}">
 	  
   </head>
   <body>
@@ -87,7 +87,6 @@
       </footer>
     </main>
 	</body>
-
-  <script src="assets/js/simply-nav.js"></script>
+  <script src="{{ 'assets/js/simply-nav.js' | relative_url }}"></script>
 </html>
     
