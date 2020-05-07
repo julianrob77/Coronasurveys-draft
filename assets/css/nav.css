@@ -129,7 +129,7 @@
     color: #e0e0e0;
     transition: all 0.3s ease-in-out; }
     .nav-list > .list > .item > .link:hover, .nav-list > .list > .item > .link.-active {
-      color: #000; text-decoration: none;}
+      color: #fff; text-decoration: none;}
   .nav-list > .list > .overlay {
     width: 40%;
     height: 100%;
