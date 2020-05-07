@@ -34,7 +34,7 @@
         </div>
       </button>
       <a class="logo-link" href="#">
-        <img class="logo" id="logo" src="assets/images/logo.svg" alt="Logo">
+        <img class="logo" id="logo" src= "{{ 'assets/images/logo.svg' | relative_url }}">alt="Logo">
       </a>
       <ul class="nav-list" role="navigation">
         <div class="list -left">
@@ -62,7 +62,7 @@
   </div>
       <header class="page-header" role="banner">
          <div class="logo">
-          <img src="assets/coronasurveys_logo.png">
+          <img src= "{{ 'assets/coronasurveys_logo.png' | relative_url }}" >
       </div>
 
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
