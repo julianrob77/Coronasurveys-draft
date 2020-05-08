@@ -81,6 +81,17 @@ select {
     left: 50%;
 }
 
+div#map_zoom svg {
+    stroke: #314d65!important;
+    fill: #fff;
+    background: #314d65;
+    border-radius: 8px;
+}
+
+#map_zoom path {
+    stroke: #000;
+}
+
 .btn {
     display: inline-block;
     margin-bottom: 1rem;
