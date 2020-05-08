@@ -64,6 +64,10 @@ center {
     padding: 2em;
     background: #37107d;
     text-align: center;
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    left: 50%;
 }
 
 select {
