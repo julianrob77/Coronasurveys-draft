@@ -313,40 +313,40 @@ The objective of this study is the collection and publication of data concerning
 <div id="logos-main">
    <!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
          <a href="https://www.networks.imdea.org/" target="_blank">
-         <img src="logos/imdea-networks-positivo-color.jpg" height="50" width="100">
+         <img src="{{ '/logos/imdea-networks-positivo-color.jpg' | relative_url }}" height="50" width="100">
          </a> 
          <a href="https://www.ucy.ac.cy/en/" target="_blank">
-         <img src="logos/University_of_Cyprus_2gr.jpg" height="50" width="150">
+         <img src="{{ '/logosUniversity_of_Cyprus_2gr.jpg' | relative_url }}" height="50" width="150">
          </a> 
          <a href="https://www.algolysis.org/" target="_blank">
-         <img src="logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg" height="50" width="150">
+         <img src="{{ '/logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg' | relative_url }}" height="50" width="150">
          </a> 
          <a href="https://viterbischool.usc.edu/" target="_blank">
-         <img src="logos/Formal_Viterbi_CardOnWhite.jpg" height="50" width="130">
+         <img src="{{ '/logos/Formal_Viterbi_CardOnWhite.jpg' | relative_url }}" height="50" width="130">
          </a> 
          <a href="https://www.tu-darmstadt.de/index.en.jsp" target="_blank">
-         <img src="logos/tud_logo.png" height="50" width="120">
+         <img src="{{ '/logos/tud_logo.png' | relative_url }}" height="50" width="120">
          </a> 
          <a href="https://www.tuat.ac.jp/en/" target="_blank">
-         <img src="logos/tat_2.png" height="50" width="100">
+         <img src="{{ '/logostat_2.png' | relative_url }}" height="50" width="100">
          </a> 
          <a href="https://www.ed.ac.uk/informatics" target="_blank">
-         <img src="logos/InformaticsUni_transparent.gif" height="50" width="180">
+         <img src="{{ '/logosInformaticsUni_transparent.gif' | relative_url }}" height="50" width="180">
          </a> 
          <a href="https://www.uminho.pt/EN" target="_blank">
-         <img src="logos/UMinho.png" height="50" width="100">
+         <img src="{{ '/logosUMinho.png' | relative_url }}" height="50" width="100">
          </a> 
          <a href="https://www.inesctec.pt/en" target="_blank">
-         <img src="logos/inesctec.jpg" height="45" width="110">
+         <img src="{{ '/logosinesctec.jpg' | relative_url }}" height="45" width="110">
          </a> 
          <a href="https://www.unitn.it/en/" target="_blank">
-         <img src="logos/newlogo_unitn_it.png" height="50" width="160">
+         <img src="{{ '/logosnewlogo_unitn_it.png' | relative_url }}" height="50" width="160">
          </a> 
          <a href="https://www.washington.edu/" target="_blank">
-         <img src="logos/Logo-UW.png" height="50">
+         <img src="{{ '/logosLogo-UW.png' | relative_url }}" height="50">
          </a> 
          <a href="https://www.ibidat.es" target="_blank">
-         <img src="logos/IBIDat-logo-name-v.svg.png" height="50">
+         <img src="{{ '/logosIBIDat-logo-name-v.svg.png' | relative_url }}" height="50">
          </a>
 </div>
 
@@ -355,11 +355,11 @@ The objective of this study is the collection and publication of data concerning
 You can also follow us on social networks and share our work:
 
 <a href="https://www.facebook.com/groups/209076966867175/">
-         <img src="logos/other/facebook.png" height="50" width="50">
+         <img src="{{ '/logosother/facebook.png' | relative_url }}" height="50" width="50">
 </a> <a href="https://twitter.com/coronasurveys">
-         <img src="logos/other/twitter.png" height="50" width="50">
+         <img src="{{ '/logosother/twitter.png' | relative_url }}" height="50" width="50">
 </a> <a href="https://www.instagram.com/coronasurveys/">
-         <img src="logos/other/instagram.png" height="50" width="50">
+         <img src="{{ '/logosother/instagram.png' | relative_url }}" height="50" width="50">
 </a>
 
 [E-mail](mailto:coronasurveys@gmail.com){: .btn}
