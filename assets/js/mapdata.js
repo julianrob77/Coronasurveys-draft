@@ -8,6 +8,7 @@ var simplemaps_worldmap_mapdata={
     popups: "detect",
     
     //State defaults
+    state_description: "Take the survey",
     state_color: "#314d66",
     state_hover_color: "#1c481d",
     state_url: "https://surveys.coronasurveys.org",
@@ -16,6 +17,7 @@ var simplemaps_worldmap_mapdata={
     all_states_zoomable: "no",
     
     //Location defaults
+    location_description: "Location description",
     location_color: "#FF0067",
     location_opacity: 0.8,
     location_hover_opacity: 1,
