@@ -92,6 +92,10 @@ div#map_zoom svg {
     stroke: #000;
 }
 
+div#map_outer path {
+    fill: #673ab6;
+}
+
 .btn {
     display: inline-block;
     margin-bottom: 1rem;
