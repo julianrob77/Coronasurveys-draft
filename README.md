@@ -348,17 +348,20 @@ The objective of this study is the collection and publication of data concerning
          <a href="https://www.ibidat.es" target="_blank">
          <img src="{{ '/logosIBIDat-logo-name-v.svg.png' | relative_url }}" height="50">
          </a>
+         <a href="https://skyhaven.co.uk" target="_blank">
+         <img src="{{ '/logos/skyhaven_logo_new.png' | relative_url }}" height="50">
+         </a>
 </div>
 
 ### Follow us!
 
 You can also follow us on social networks and share our work:
 
-<a href="https://www.facebook.com/groups/209076966867175/">
+<a href="https://www.facebook.com/coronasurveys/" target="_blank">
          <img src="{{ '/logosother/facebook.png' | relative_url }}" height="50" width="50">
-</a> <a href="https://twitter.com/coronasurveys">
+</a> <a href="https://twitter.com/coronasurveys" target="_blank" >
          <img src="{{ '/logosother/twitter.png' | relative_url }}" height="50" width="50">
-</a> <a href="https://www.instagram.com/coronasurveys/">
+</a> <a href="https://www.instagram.com/coronasurveys/" target="_blank">
          <img src="{{ '/logosother/instagram.png' | relative_url }}" height="50" width="50">
 </a>
 
