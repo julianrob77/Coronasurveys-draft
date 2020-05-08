@@ -26,8 +26,8 @@ var simplemaps_worldmap_mapdata={
     location_type: "square",
     location_image_source: "frog.png",
     location_border_color: "#FFFFFF",
-    location_border: 2,
-    location_hover_border: 2.5,
+    location_border: 1,
+    location_hover_border: 1.5,
     all_locations_inactive: "no",
     all_locations_hidden: "no",
     
