@@ -310,6 +310,8 @@ The objective of this study is the collection and publication of data concerning
 [Publications and Media Presence](info/publications/){: .btn}
 [References](info/references/){: .btn}
 
+### Supported By:
+
 <div id="logos-main">
    <!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
          <a href="https://www.networks.imdea.org/" target="_blank">
