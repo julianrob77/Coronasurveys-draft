@@ -316,7 +316,7 @@ The objective of this study is the collection and publication of data concerning
          <img src="{{ '/logos/imdea-networks-positivo-color.jpg' | relative_url }}" height="50" width="100">
          </a> 
          <a href="https://www.ucy.ac.cy/en/" target="_blank">
-         <img src="{{ '/logosUniversity_of_Cyprus_2gr.jpg' | relative_url }}" height="50" width="150">
+         <img src="{{ '/logos/University_of_Cyprus_2gr.jpg' | relative_url }}" height="50" width="150">
          </a> 
          <a href="https://www.algolysis.org/" target="_blank">
          <img src="{{ '/logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg' | relative_url }}" height="50" width="150">
@@ -328,25 +328,25 @@ The objective of this study is the collection and publication of data concerning
          <img src="{{ '/logos/tud_logo.png' | relative_url }}" height="50" width="120">
          </a> 
          <a href="https://www.tuat.ac.jp/en/" target="_blank">
-         <img src="{{ '/logostat_2.png' | relative_url }}" height="50" width="100">
+         <img src="{{ '/logos/tat_2.png' | relative_url }}" height="50" width="100">
          </a> 
          <a href="https://www.ed.ac.uk/informatics" target="_blank">
-         <img src="{{ '/logosInformaticsUni_transparent.gif' | relative_url }}" height="50" width="180">
+         <img src="{{ '/logos/InformaticsUni_transparent.gif' | relative_url }}" height="50" width="180">
          </a> 
          <a href="https://www.uminho.pt/EN" target="_blank">
-         <img src="{{ '/logosUMinho.png' | relative_url }}" height="50" width="100">
+         <img src="{{ '/logos/UMinho.png' | relative_url }}" height="50" width="100">
          </a> 
          <a href="https://www.inesctec.pt/en" target="_blank">
-         <img src="{{ '/logosinesctec.jpg' | relative_url }}" height="45" width="110">
+         <img src="{{ '/logos/inesctec.jpg' | relative_url }}" height="45" width="110">
          </a> 
          <a href="https://www.unitn.it/en/" target="_blank">
-         <img src="{{ '/logosnewlogo_unitn_it.png' | relative_url }}" height="50" width="160">
+         <img src="{{ '/logos/newlogo_unitn_it.png' | relative_url }}" height="50" width="160">
          </a> 
          <a href="https://www.washington.edu/" target="_blank">
-         <img src="{{ '/logosLogo-UW.png' | relative_url }}" height="50">
+         <img src="{{ '/logos/Logo-UW.png' | relative_url }}" height="50">
          </a> 
          <a href="https://www.ibidat.es" target="_blank">
-         <img src="{{ '/logosIBIDat-logo-name-v.svg.png' | relative_url }}" height="50">
+         <img src="{{ '/logos/IBIDat-logo-name-v.svg.png' | relative_url }}" height="50">
          </a>
          <a href="https://skyhaven.co.uk" target="_blank">
          <img src="{{ '/logos/skyhaven_logo_new.png' | relative_url }}" height="50">
@@ -358,11 +358,11 @@ The objective of this study is the collection and publication of data concerning
 You can also follow us on social networks and share our work:
 
 <a href="https://www.facebook.com/coronasurveys/" target="_blank">
-         <img src="{{ '/logosother/facebook.png' | relative_url }}" height="50" width="50">
+         <img src="{{ '/logos/other/facebook.png' | relative_url }}" height="50" width="50">
 </a> <a href="https://twitter.com/coronasurveys" target="_blank" >
-         <img src="{{ '/logosother/twitter.png' | relative_url }}" height="50" width="50">
+         <img src="{{ '/logos/other/twitter.png' | relative_url }}" height="50" width="50">
 </a> <a href="https://www.instagram.com/coronasurveys/" target="_blank">
-         <img src="{{ '/logosother/instagram.png' | relative_url }}" height="50" width="50">
+         <img src="{{ '/logos/other/instagram.png' | relative_url }}" height="50" width="50">
 </a>
 
 [E-mail](mailto:coronasurveys@gmail.com){: .btn}
