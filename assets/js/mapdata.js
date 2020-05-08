@@ -12,7 +12,7 @@ var simplemaps_worldmap_mapdata={
     state_color: "#314d66",
     state_hover_color: "#1c481d",
     state_url: "https://surveys.coronasurveys.org",
-    border_size: 1.5,
+    border_size: 1.0,
     all_states_inactive: "no",
     all_states_zoomable: "no",
     
@@ -64,10 +64,11 @@ var simplemaps_worldmap_mapdata={
     url_new_tab: "yes",
     images_directory: "default",
     fade_time: 0.1,
-    link_text: "View Website",
+    link_text: "View Survey",
     state_image_url: "",
     state_image_position: "",
-    location_image_url: ""
+    location_image_url: "",
+    manual_zoom: "yes"
   },
   state_specific: {
     AF: {
