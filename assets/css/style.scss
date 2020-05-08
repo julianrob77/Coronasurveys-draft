@@ -101,6 +101,10 @@ div#map_outer path {
     stroke: #000;
 }
 
+div#map_holder {
+    z-index: 0;
+}
+
 .btn {
     display: inline-block;
     margin-bottom: 1rem;
