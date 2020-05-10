@@ -2,14 +2,28 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ 'assets/css/nav.css' | relative_url }}">
-	  
+<link rel="manifest" href="{{ 'manifest.json' | relative_url }}">
+<link rel="apple-touch-icon" sizes="57x57" href="{{ 'device-icons/apple-icon-57x57' | relative_url }}">
+<link rel="apple-touch-icon" sizes="60x60" href="{{ 'device-icons/apple-icon-60x60' | relative_url }}">
+<link rel="apple-touch-icon" sizes="72x72" href="{{ 'device-icons/apple-icon-72x72' | relative_url }}>"
+<link rel="apple-touch-icon" sizes="76x76" href="{{ 'device-icons/apple-icon-76x76' | relative_url }}>"
+<link rel="apple-touch-icon" sizes="114x114" href="{{ 'device-icons/apple-icon-114x114' | relative_url }}>"
+<link rel="apple-touch-icon" sizes="120x120" href="{{ 'device-icons/apple-icon-120x120' | relative_url }}>"
+<link rel="apple-touch-icon" sizes="144x144" href="{{ 'device-icons/apple-icon-144x144' | relative_url }}>"
+<link rel="apple-touch-icon" sizes="152x152" href="{{ 'device-icons/apple-icon-152x152' | relative_url }}>"
+<link rel="apple-touch-icon" sizes="180x180" href="{{ 'device-icons/apple-icon-180x180' | relative_url }}>"
+<link rel="icon" type="image/png" sizes="192x192"  href="{{ 'device-icons/android-icon-192x192' | relative_url }}>"
+<link rel="icon" type="image/png" sizes="32x32" href="{{ 'device-icons/favicon-32x32' | relative_url }}>"
+<link rel="icon" type="image/png" sizes="96x96" href="{{ 'device-icons/favicon-96x96' | relative_url }}>"
+<link rel="icon" type="image/png" sizes="16x16" href="{{ 'device-icons/favicon-16x16' | relative_url }}>"
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="device-icons/ms-icon-144x144.png">	  
   </head>
   <body>
     
@@ -57,14 +71,7 @@
           <img src= "{{ 'assets/coronasurveys_logo.png' | relative_url }}" >
       </div>
 
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+      <h2 class="project-tagline">@CoronaSurveys: Monitoring the Incidence of COVID-19 via Open Surveys</h2>
     </header>
 	  
     <main id="content" class="main-content" role="main">

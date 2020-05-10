@@ -1,10 +1,8 @@
 theme: jekyll-theme-cayman
-url: https://julianrob77.github.io/Coronasurveys-draft
-title: <a href="http://www.zina-studio.com/">
-         <img src="https://julianrob77.github.io/Coronasurveys-draft/assets/coronasurveys_logo.png" 
-        style="text-align:center">
-      </a> <br>
-      <font size="5"> <span>&#64;</span>CoronaSurveys<span>&#58;</span> Monitoring the Incidence of COVID-19 via Open Surveys </font>  
+url: https://coronasurveys.org
+title: Coronasurveys
+tagline: Monitoring the Incidence of COVID-19 via Open Surveys 
+description: The CoronaSurveys project is a collaborative endeavour from several universities and research institutions. Data about COVID-19 cases is collected via anonymous open surveys (all the data collected is openly available). You can help by regularly completing the anonymous survey.
 github:
   is_project_page: false
 
@@ -14,3 +12,4 @@ plugins:
 - jekyll-redirect-from
 - jekyll-sitemap
 - jemoji
+- jekyll-seo-tag
