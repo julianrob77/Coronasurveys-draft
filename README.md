@@ -1,6 +1,6 @@
 ### CoronaSurveys Project Summary
 The CoronaSurveys project is a collaborative endeavour from several universities and research institutions
-([team members](info/team/)). Data about COVID-19 cases is collected
+([team members](/team)). Data about COVID-19 cases is collected
 via anonymous open surveys ([all the data collected is openly available](https://github.com/GCGImdea/coronasurveys/tree/master/data/)).
 The results below present estimations on the incidence of COVID-19 from this and other available data. 
 You can help by regularly completing the anonymous survey.
@@ -234,7 +234,7 @@ You can help by regularly completing the anonymous survey.
 
 ### Estimates obtained by CoronaSurveys
 
-(Updated daily)
+####(Updated daily)
 <iframe src="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" width="100%" height="400" frameborder="0"></iframe> 
 
 <a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" > <center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
@@ -245,7 +245,7 @@ You can help by regularly completing the anonymous survey.
 
 ### Latest estimates per country
 
-(Updated daily)
+####(Updated daily)
 
 <iframe src="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NG&var-country=Nigeria&var-region=All" width="100%" height="500" frameborder="0"></iframe>
 
@@ -313,7 +313,7 @@ The objective of this study is the collection and publication of data concerning
          <a href="https://www.ucy.ac.cy/en/" target="_blank">
          <img src="{{ '/logos/University_of_Cyprus_2gr.jpg' | relative_url }}" height="50" width="150">
          </a> 
-         <a href="https://www.algolysis.org/" target="_blank">
+         <a href="https://www.algolysis.com/" target="_blank">
          <img src="{{ '/logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg' | relative_url }}" height="50" width="150">
          </a> 
          <a href="https://viterbischool.usc.edu/" target="_blank">
@@ -360,4 +360,4 @@ You can also follow us on social networks and share our work:
          <img src="{{ '/logos/other/instagram.png' | relative_url }}" height="50" width="50">
 </a>
 
-[E-mail](mailto:coronasurveys@gmail.com){: .btn}
+[E-mail](mailto:coronasurveys@gmail.com){: .btn} 
