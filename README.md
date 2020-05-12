@@ -347,11 +347,10 @@ The objective of this study is the collection and publication of data concerning
          <img src="{{ '/logos/skyhaven_logo_new.png' | relative_url }}" height="50">
          </a>
 </div>
-
+<center>
 ### Follow us!
 
 You can also follow us on social networks and share our work:
-
 <a href="https://www.facebook.com/coronasurveys/" target="_blank">
          <img src="{{ '/logos/other/facebook.png' | relative_url }}" height="50" width="50">
 </a> <a href="https://twitter.com/coronasurveys" target="_blank" >
@@ -361,3 +360,4 @@ You can also follow us on social networks and share our work:
 </a>
 
 [E-mail](mailto:coronasurveys@gmail.com){: .btn} 
+</center>
