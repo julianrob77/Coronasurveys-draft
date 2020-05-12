@@ -347,11 +347,11 @@ The objective of this study is the collection and publication of data concerning
          </a>
 </div>
 ### Follow us!
+#### You can also follow us on social networks and share our work:
 <div class="centered">
-  <p>You can also follow us on social networks and share our work:</p>
 <a href="https://www.facebook.com/coronasurveys/" target="_blank"><img src="{{ '/logos/other/facebook.png' | relative_url }}" height="50" width="50"></a> 
 <a href="https://twitter.com/coronasurveys" target="_blank" ><img src="{{ '/logos/other/twitter.png' | relative_url }}" height="50" width="50"></a> 
 <a href="https://www.instagram.com/coronasurveys/" target="_blank"><img src="{{ '/logos/other/instagram.png' | relative_url }}" height="50" width="50"></a>
   </div>
 
-[E-mail](mailto:coronasurveys@gmail.com){: .btn .center} 
+[E-mail](mailto:coronasurveys@gmail.com){: .btn .centered} 
