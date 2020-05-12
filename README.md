@@ -245,8 +245,7 @@ You can help by regularly completing the anonymous survey.
 
 ### Latest estimates per country
 
-####(Updated daily)
-
+#### (Updated daily)
 <iframe src="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NG&var-country=Nigeria&var-region=All" width="100%" height="500" frameborder="0"></iframe>
 
 <a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NG&var-country=Nigeria&var-region=All" > <center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
@@ -347,17 +346,12 @@ The objective of this study is the collection and publication of data concerning
          <img src="{{ '/logos/skyhaven_logo_new.png' | relative_url }}" height="50">
          </a>
 </div>
-<center>
 ### Follow us!
-
+<div class="centered">
 You can also follow us on social networks and share our work:
-<a href="https://www.facebook.com/coronasurveys/" target="_blank">
-         <img src="{{ '/logos/other/facebook.png' | relative_url }}" height="50" width="50">
-</a> <a href="https://twitter.com/coronasurveys" target="_blank" >
-         <img src="{{ '/logos/other/twitter.png' | relative_url }}" height="50" width="50">
-</a> <a href="https://www.instagram.com/coronasurveys/" target="_blank">
-         <img src="{{ '/logos/other/instagram.png' | relative_url }}" height="50" width="50">
-</a>
+<a href="https://www.facebook.com/coronasurveys/" target="_blank"><img src="{{ '/logos/other/facebook.png' | relative_url }}" height="50" width="50"></a> 
+<a href="https://twitter.com/coronasurveys" target="_blank" ><img src="{{ '/logos/other/twitter.png' | relative_url }}" height="50" width="50"></a> 
+<a href="https://www.instagram.com/coronasurveys/" target="_blank"><img src="{{ '/logos/other/instagram.png' | relative_url }}" height="50" width="50"></a>
+  </div>
 
-[E-mail](mailto:coronasurveys@gmail.com){: .btn} 
-</center>
+[E-mail](mailto:coronasurveys@gmail.com){: .btn .center} 
