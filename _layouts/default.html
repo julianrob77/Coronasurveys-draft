@@ -8,7 +8,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ 'assets/css/nav.css' | relative_url }}">
-	  <script type="text/javascript" src="/tarteaucitron/tarteaucitron.js"></script>
+	  <script type="text/javascript" src="{{ 'assets/tarteaucitron/tarteaucitron.js' | relative_url}}"></script>
 
         <script type="text/javascript">
         tarteaucitron.init({
@@ -17,7 +17,7 @@
     	  "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
     	  "cookieName": "tarteaucitron", /* Cookie name */
     
-    	  "orientation": "middle", /* Banner position (top - bottom) */
+    	  "orientation": "bottom", /* Banner position (top - bottom) */
     	  "showAlertSmall": true, /* Show the small banner on bottom right */
     	  "cookieslist": true, /* Show the cookie list */
 
@@ -26,7 +26,7 @@
     	  "highPrivacy": true, /* Disable auto consent */
     	  "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
 
-    	  "removeCredit": false, /* Remove credit link */
+    	  "removeCredit": true, /* Remove credit link */
     	  "moreInfoLink": true, /* Show more info link */
     	  "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
 
