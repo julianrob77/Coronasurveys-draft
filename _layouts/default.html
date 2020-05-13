@@ -38,7 +38,10 @@
 
         <script type="text/javascript">
         tarteaucitron.user.gtagUa = 'UA-165674370-1';
-        tarteaucitron.user.gtagMore = function (){ 'anonymize_ip': true};
+        tarteaucitron.user.gtagMore = function () {
+       		function gtag(){dataLayer.push(arguments);} // Récupéré dans tarteaucitron.services.js
+       		gtag('config', tarteaucitron.user.gtagUa, { 'anonymize_ip': true });
+};
         (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
         </script>
 <link rel="manifest" href="{{ 'manifest.json' | relative_url }}">
