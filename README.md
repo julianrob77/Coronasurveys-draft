@@ -245,35 +245,7 @@ You can help by regularly completing the anonymous survey.
 #### (Updated daily)
 
 <a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NG&var-country=Nigeria&var-region=All"><img src="https://coronasurveys.org/assets/images/graph3.png"></a>
-
 <a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NG&var-country=Nigeria&var-region=All" > <center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
-<h3>Choose a country for data:</h3>
-[Argentina](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=AR&var-country=Argentina&var-region=All){: .btn}
-[Australia](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=AU&var-country=Australia&var-region=All){: .btn}
-[Canada](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=CA&var-country=Canada&var-region=All){: .btn}
-[Chile](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=CL&var-country=Chile&var-region=All){: .btn}
-[Cyprus](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=CY&var-country=Cyprus&var-region=All){: .btn}
-[Ecuador](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=EC&var-country=Ecuador&var-region=All){: .btn}
-[France](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=FR&var-country=France&var-region=All){: .btn}
-[Germany](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=DE&var-country=Germany&var-region=All){: .btn}
-[Greece](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=GR&var-country=Greece&var-region=All){: .btn}
-[Indonesia](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ID&var-country=Indonesia&var-region=All){: .btn}
-[Iran](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=IR&var-country=Iran&var-region=All){: .btn}
-[Italy](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=IT&var-country=Italy&var-region=All){: .btn}
-[Japan](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=JP&var-country=Japan&var-region=All){: .btn}
-[Lebanon](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=LB&var-country=Lebanon&var-region=All){: .btn}
-[Netherlands](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NL&var-country=Netherlands&var-region=All){: .btn}
-[Nigeria](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NG&var-country=Nigeria&var-region=All){: .btn}
-[Portugal](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=PT&var-country=Portugal&var-region=All){: .btn}
-[Spain](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All){: .btn}
-[Sweden](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=SE&var-country=Sweden&var-region=All){: .btn}
-[Turkey](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=TR&var-country=Turkey&var-region=All){: .btn}
-[UK](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=GB&var-country=UK&var-region=All){: .btn}
-[Ukraine](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=UA&var-country=Ukraine&var-region=All){: .btn}
-[USA](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=US&var-country=USA&var-region=All){: .btn}
-[Venezuela](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=VE&var-country=Venezuela&var-region=All){: .btn}
-
-
 
 <iframe src="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=24&orgId=1&from=1583610808303" width="100%" height="500" frameborder="0">
 </iframe>
