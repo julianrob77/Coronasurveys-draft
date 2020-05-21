@@ -234,14 +234,10 @@ You can help by regularly completing the anonymous survey.
 
 ### Estimates obtained by CoronaSurveys
 
-####(Updated daily)
-
+#### (Updated daily)
 <a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000"><img src="https://coronasurveys.org/assets/images/graph1.png"></a> 
-
 <a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" ><center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
-
 <a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000"><img src="https://coronasurveys.org/assets/images/graph2.png"></a>
-
 <a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" ><center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
 
 ### Latest estimates per country
