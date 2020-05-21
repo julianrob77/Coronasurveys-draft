@@ -314,11 +314,3 @@ The objective of this study is the collection and publication of data concerning
          <img src="{{ '/logos/skyhaven_logo_new.png' | relative_url }}" height="50">
          </a>
 </div>
-### Follow us!
-#### You can also follow us on social networks and share our work:
-<div class="centered">
-<a href="https://www.facebook.com/coronasurveys/" target="_blank"><img src="{{ '/logos/other/facebook.png' | relative_url }}" height="50" width="50"></a> 
-<a href="https://twitter.com/coronasurveys" target="_blank" ><img src="{{ '/logos/other/twitter.png' | relative_url }}" height="50" width="50"></a> 
-<a href="https://www.instagram.com/coronasurveys/" target="_blank"><img src="{{ '/logos/other/instagram.png' | relative_url }}" height="50" width="50"></a>
-</div>
-<a href="mailto:coronasurveys@gmail.com" ><center><font size="2"><u class="btn">Email</u></font></center></a> 
