@@ -235,6 +235,7 @@ You can help by regularly completing the anonymous survey.
 ### Estimates obtained by CoronaSurveys
 
 #### (Updated daily)
+
 <a href="{{ '/data' | relative_url }}"><img src="https://coronasurveys.org/assets/images/graph1.png"></a> 
 <a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" ><center><font size="2"><u class="btn">Click For Interactive Version</u></font></center></a> 
 <a href="{{ '/data' | relative_url }}"><img src="https://coronasurveys.org/assets/images/graph2.png"></a>
