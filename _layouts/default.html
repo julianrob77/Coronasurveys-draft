@@ -9,10 +9,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ 'assets/css/nav.css' | relative_url }}">
 	  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
-	  <script>
-const observer = lozad(); // lazy loads elements with default selector as '.lozad'
-observer.observe();
-	  </script>
 	
 <link rel="manifest" href="{{ 'manifest.json' | relative_url }}">
 <link rel="apple-touch-icon" sizes="57x57" href="{{ 'device-icons/apple-icon-57x57' | relative_url }}">
@@ -135,6 +131,10 @@ observer.observe();
 };
         (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
         </script>
+<script>
+const observer = lozad(); // lazy loads elements with default selector as '.lozad'
+observer.observe();
+</script>
 </body>
 <script src="{{ 'assets/js/simply-nav.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/mapdata.js' | relative_url }}"></script>   
