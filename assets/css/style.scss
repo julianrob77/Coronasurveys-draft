@@ -3,6 +3,22 @@
 
 @import "{{ site.theme }}";
 
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.googleapis.com/css2?family=Open+Sans&display=swap);
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.googleapis.com/css2?family=Open+Sans&display=swap);
+	font-display: swap;
+}
+
 html, body {
     max-width: 100%;
     overflow-x: hidden;
@@ -36,7 +52,7 @@ a#skip-to-content {
     color: #000;
     text-align: center;
     background-color: #fff;
-    background-image: url(https://julianrob77.github.io/Coronasurveys-draft/assets/CDC_Coronavirus.jpg);
+    background-image: url(https://coronasurveys.org/assets/CDC_Coronavirus_2.webp);
     margin: 0;
     border-bottom: 1px solid #cacaca;
     background-attachment: fixed;
@@ -44,23 +60,18 @@ a#skip-to-content {
     margin-top: 70px;
 }
 
-.main-content img {
+#logos_resized-main img {
     max-width: 100%;
     margin: 20px;
 }
 
-#logos-main {
-    text-align: center;
-    padding: 40px 0px;
-    margin: 5% 0;
-   border-bottom: 1px solid #cacaca;
-}
-
 center {
-    padding-top: 3.5rem;
+    padding-top: 0.5rem;
 }
 
 .centered {text-align: center; }
+
+.center-content p {text-align: center; }
 
 .dropdown-section {
     padding: 2em;
@@ -93,6 +104,10 @@ div#map_zoom svg {
     fill: #fff;
     background: #314d65;
     border-radius: 8px;
+}
+
+div#map_zoom {
+    margin-left: 15px;
 }
 
 #map_zoom path {
@@ -154,11 +169,14 @@ div#map_holder {
 #map_inner tspan {
     display: none;
 }
-
 .site-footer {
     padding-top: 1rem;
     margin-top: 0;
     border-top: solid 0px #eff0f1;
+}
+
+.site-footer .centered img {
+    margin: 18px;
 }
 
 @media screen and (min-width: 64em){
