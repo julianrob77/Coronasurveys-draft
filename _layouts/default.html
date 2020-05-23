@@ -128,15 +128,11 @@ observer.observe();
     	  "removeCredit": true, /* Remove credit link */
     	  "moreInfoLink": true, /* Show more info link */
     	  "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
-
-    	  //"cookieDomain": ".my-multisite-domaine.fr", /* Shared cookie for multisite */
-                          
-    	  //"readmoreLink": "" /* Change the default readmore link */
         });
         </script>
 
         <script>
-        tarteaucitron.user.gtagUa = 'UA-165674370-1';
+        tarteaucitron.user.gtagUa = 'XXXXXX';
         tarteaucitron.user.gtagMore = function () {
        		function gtag(){dataLayer.push(arguments);} // Récupéré dans tarteaucitron.services.js
        		gtag('config', tarteaucitron.user.gtagUa, { 'anonymize_ip': true });
