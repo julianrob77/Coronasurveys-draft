@@ -113,29 +113,24 @@ observer.observe();
         <script>
         tarteaucitron.init({
     	  "privacyUrl": "https://coronasurveys.org/privacy-cookies", /* Privacy policy url */
-
     	  "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
     	  "cookieName": "tarteaucitron", /* Cookie name */
-    
     	  "orientation": "bottom", /* Banner position (top - bottom) */
     	  "showAlertSmall": false, /* Show the small banner on bottom right */
     	  "cookieslist": true, /* Show the cookie list */
-
     	  "adblocker": false, /* Show a Warning if an adblocker is detected */
     	  "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
     	  "highPrivacy": true, /* Disable auto consent */
     	  "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
-
     	  "removeCredit": true, /* Remove credit link */
     	  "moreInfoLink": true, /* Show more info link */
     	  "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
         });
         </script>
-
         <script>
         tarteaucitron.user.gtagUa = 'XXXXXX';
         tarteaucitron.user.gtagMore = function () {
-       		function gtag(){dataLayer.push(arguments);} // Récupéré dans tarteaucitron.services.js
+       		function gtag(){dataLayer.push(arguments);}
        		gtag('config', tarteaucitron.user.gtagUa, { 'anonymize_ip': true });
 };
         (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
