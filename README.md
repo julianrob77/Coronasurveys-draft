@@ -1,15 +1,60 @@
-### CoronaSurveys Project Summary
+## CoronaSurveys Project Summary
 The CoronaSurveys project is a collaborative endeavour from several universities and research institutions
-([team members](/team)). Data about COVID-19 cases is collected
+([team members](/team)) Data about COVID-19 cases is collected
 via anonymous open surveys ([all the data collected is openly available](https://github.com/GCGImdea/coronasurveys/tree/master/data/)).
 The results below present estimations on the incidence of COVID-19 from this and other available data. 
 You can help by regularly completing the anonymous survey.
 
+### Supported By:
+<div id="logos_resized-main">
+   <!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
+         <a href="https://www.networks.imdea.org/" rel="noreferrer">
+         <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/imdea-networks-positivo-color.jpg' | relative_url }}" height="60" alt="IMDEA Logo">
+         </a> 
+         <a href="https://www.ucy.ac.cy/en/" rel="noreferrer">
+         <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/University_of_Cyprus_2gr.jpg' | relative_url }}" height="60" alt="Univerity of Cyprus Logo">
+         </a> 
+         <a href="https://www.algolysis.com/" rel="noreferrer">
+         <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg' | relative_url }}" height="60" alt="Algolysis Logo">
+         </a> 
+         <a href="https://viterbischool.usc.edu/" rel="noreferrer">
+         <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/Formal_Viterbi_CardOnWhite.jpg' | relative_url }}" height="60" alt="ViterbiSchool Logo">
+         </a> 
+         <a href="https://www.tu-darmstadt.de/index.en.jsp" rel="noreferrer">
+         <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/tud_logo.jpg' | relative_url }}" height="60" alt="Technical University (TU) of Darmstadt Logo">
+         </a> 
+         <a href="https://www.tuat.ac.jp/en/" rel="noreferrer">
+         <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/tat_2.jpg' | relative_url }}" height="60" alt="TUAT Logo">
+         </a> 
+         <a href="https://www.ed.ac.uk/informatics" rel="noreferrer">
+         <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/InformaticsUni_transparent.jpg' | relative_url }}" height="60" alt="University of Edinburgh School Of Informatics Logo">
+         </a> 
+         <a href="https://www.uminho.pt/EN" rel="noreferrer">
+         <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/UMinho.jpg' | relative_url }}" height="60" alt="University of Minho Logo">
+         </a> 
+         <a href="https://www.inesctec.pt/en" rel="noreferrer">
+         <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/inesctec.jpg' | relative_url }}" height="60" alt="Inesctec Logo">
+         </a> 
+         <a href="https://www.unitn.it/en/" rel="noreferrer">
+         <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/newlogo_unitn_it.jpg' | relative_url }}" height="60" alt="University Of Trento Logo">
+         </a> 
+         <a href="https://www.washington.edu/" rel="noreferrer">
+         <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/Logo-UW.jpg' | relative_url }}" height="60" alt="University Of Washington Logo">
+         </a> 
+         <a href="https://www.ibidat.es" rel="noreferrer">
+         <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/IBIDat-logo-name-v.svg.jpg' | relative_url }}" height="60" alt="Ibidat Logo">
+         </a>
+         <a href="https://skyhaven.co.uk" rel="noreferrer">
+         <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/skyhaven_logo_new.jpg' | relative_url }}" height="60" alt="Skyhaven Media Logo">
+         </a>
+         <a href="http://inqbarna.com" rel="noreferrer">
+         <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/inqbarna_com_logo_rectangular.jpg' | relative_url }}" height="60" alt="Inqbarna Logo"></a>
+</div>
+
 ### Contribute and fill the anonymous survey for a country:
 
 <div class="dropdown-section">
-
-<select id='Choose A Country' onchange="location = this.value;">
+<select id="Choose_A_Country" name="Survey Country Selection" aria-label="Select A Country" onchange="location = this.value;">
 <option>Select A Country</option>
 <option value="https://survey.coronasurveys.org/AF">Afghanistan</option>
 <option value="https://survey.coronasurveys.org/AL">Albania</option>
@@ -174,7 +219,7 @@ You can help by regularly completing the anonymous survey.
 <option value="https://survey.coronasurveys.org/KN">Saint Kitts and Nevis</option>
 <option value="https://survey.coronasurveys.org/LC">Saint Lucia</option>
 <option value="https://survey.coronasurveys.org/SX">Saint Martin (Dutch)</option>
-<option value="https://survey.coronasurveys.org/MF">Saint Martin French)</option>(
+<option value="https://survey.coronasurveys.org/MF">Saint Martin (French)</option>
 <option value="https://survey.coronasurveys.org/VC">Saint Vincent and the Grenadines</option>
 <option value="https://survey.coronasurveys.org/SA">Saudi Arabia</option>
 <option value="https://survey.coronasurveys.org/SN">Senegal</option>
@@ -230,25 +275,14 @@ You can help by regularly completing the anonymous survey.
 
 ### Or, click on a location to start a survey:
 
-  <div id="map"></div>
+  <div id="map" class="lozad"></div>
 
 ### Estimates obtained by CoronaSurveys
-
-<a href="{{ '/data' | relative_url }}"><img class="lozad" data-src="https://coronasurveys.org/assets/images/graph1.png" alt="Testing Percentage of population with symptoms estimated by @CoronaSurveys"></a><center><a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" ><u class="btn">Click For Interactive Version</u></a></center><a href="{{ '/data' | relative_url }}"><img class="lozad" data-src="https://coronasurveys.org/assets/images/graph2.png" alt="Number of people with symptoms estimated by @CoronaSurveys"></a><center><a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" ><u class="btn">Click For Interactive Version</u></a></center>
+<div class="data"><a href="{{ '/data' | relative_url }}"><img src="{{ '/assets/placeholder.png' | relative_url }}" class="lozad" data-src="https://coronasurveys.org/assets/images/graph1.png" alt="Testing Percentage of population with symptoms estimated by @CoronaSurveys"></a><a class="btn" href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" >% Symptoms Interactive Version</a><a href="{{ '/data' | relative_url }}"><img src="{{ '/assets/placeholder.png' | relative_url }}" class="lozad" data-src="https://coronasurveys.org/assets/images/graph2.png" alt="Number of people with symptoms estimated by @CoronaSurveys"></a><a class="btn" href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" >Number Of People Interactive Version</a></div>
 
 ### Latest estimates per country
-
-<a href="{{ '/data' | relative_url }}"><img class="lozad" data-src="https://coronasurveys.org/assets/images/graph3.png" alt="Latest estimates per country"></a><center><a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All&var-reach=150&var-population=1000000" ><u class="btn">Click For Interactive Version</u></a></center> 
-
-### Further Reading
-
-Source of data on confirmed cases and deaths: [European Centre for Disease Prevention and Control.](https://www.ecdc.europa.eu/en/covid-19-pandemic)
-
-(1) Hiroshi Nishiura et al. Early Epidemiological Assessment of the Virulence of Emerging Infectious Diseases: A Case Study of an Influenza Pandemic. Plos One. August 31, 2009. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006852>
-
-(2) Amy Maxmen. How much is coronavirus spreading under the radar? Nature News Explainer, March 13th, 2020. <https://www.nature.com/articles/d41586-020-00760-8>
-
-(3) @CoronaSurveys estimates of cases with symptoms with 95% confidence. Corresponds to the latest date with sufficient cumulative number of survey responses (see the plots above). The label "undefined" is used when there are not enough survey responses to compute estimates. [Measuring Icebergs: Using Different Methods to Estimate the Number of COVID-19 Cases in Portugal and Spain](https://medrxiv.org/cgi/content/short/2020.04.20.20073056v1)
+<div class="data">
+<a href="{{ '/data' | relative_url }}"><img src="{{ '/assets/placeholder.png' | relative_url }}" class="lozad" data-src="https://coronasurveys.org/assets/images/graph3.png" alt="Latest estimates per country"></a><a class="btn" href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All&var-reach=150&var-population=1000000" >Estimates Per Country Interactive Version</a></div>
 
 ### How can I help?
 
@@ -261,48 +295,3 @@ Because we are tracking the evolution of this epidemic over time, once you have 
 The world is suffering from a pandemic called COVID-19, caused by the SARS-CoV-2 virus. The different national governments have problems evaluating the reach of the epidemic, having limited resources and tests to their disposal. Hence, any means to evaluate the number of persons with symptoms compatible with COVID-19 with reasonable level of accuracy is useful.
 
 The objective of this study is the collection and publication of data concerning the number of people that show symptoms compatible with COVID-19 in different countries. Hopefully, this data will be useful to estimate the number of infected persons with the COVID-19 virus at a given point in time in these countries, and the evolution of this number over time.
-
-
-### Supported By:
-<div id="logos-main">
-   <!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
-         <a href="https://www.networks.imdea.org/" target="_blank">
-         <img src="{{ '/logos/imdea-networks-positivo-color.jpg' | relative_url }}" height="50" width="100">
-         </a> 
-         <a href="https://www.ucy.ac.cy/en/" target="_blank">
-         <img src="{{ '/logos/University_of_Cyprus_2gr.jpg' | relative_url }}" height="50" width="150">
-         </a> 
-         <a href="https://www.algolysis.com/" target="_blank">
-         <img src="{{ '/logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg' | relative_url }}" height="50" width="150">
-         </a> 
-         <a href="https://viterbischool.usc.edu/" target="_blank">
-         <img src="{{ '/logos/Formal_Viterbi_CardOnWhite.jpg' | relative_url }}" height="50" width="130">
-         </a> 
-         <a href="https://www.tu-darmstadt.de/index.en.jsp" target="_blank">
-         <img src="{{ '/logos/tud_logo.png' | relative_url }}" height="50" width="120">
-         </a> 
-         <a href="https://www.tuat.ac.jp/en/" target="_blank">
-         <img src="{{ '/logos/tat_2.png' | relative_url }}" height="50" width="100">
-         </a> 
-         <a href="https://www.ed.ac.uk/informatics" target="_blank">
-         <img src="{{ '/logos/InformaticsUni_transparent.gif' | relative_url }}" height="50" width="180">
-         </a> 
-         <a href="https://www.uminho.pt/EN" target="_blank">
-         <img src="{{ '/logos/UMinho.png' | relative_url }}" height="50" width="100">
-         </a> 
-         <a href="https://www.inesctec.pt/en" target="_blank">
-         <img src="{{ '/logos/inesctec.jpg' | relative_url }}" height="45" width="110">
-         </a> 
-         <a href="https://www.unitn.it/en/" target="_blank">
-         <img src="{{ '/logos/newlogo_unitn_it.png' | relative_url }}" height="50" width="160">
-         </a> 
-         <a href="https://www.washington.edu/" target="_blank">
-         <img src="{{ '/logos/Logo-UW.png' | relative_url }}" height="50">
-         </a> 
-         <a href="https://www.ibidat.es" target="_blank">
-         <img src="{{ '/logos/IBIDat-logo-name-v.svg.png' | relative_url }}" height="50">
-         </a>
-         <a href="https://skyhaven.co.uk" target="_blank">
-         <img src="{{ '/logos/skyhaven_logo_new.png' | relative_url }}" height="50">
-         </a>
-</div>
