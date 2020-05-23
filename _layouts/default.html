@@ -11,30 +11,28 @@ layout: compress
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ 'assets/css/nav.css' | relative_url }}">
-	  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
-	
-<link rel="manifest" href="{{ 'manifest.json' | relative_url }}">
-<link rel="apple-touch-icon" sizes="57x57" href="{{ 'device-icons/apple-icon-57x57' | relative_url }}">
-<link rel="apple-touch-icon" sizes="60x60" href="{{ 'device-icons/apple-icon-60x60' | relative_url }}">
-<link rel="apple-touch-icon" sizes="72x72" href="{{ 'device-icons/apple-icon-72x72' | relative_url }}">
-<link rel="apple-touch-icon" sizes="76x76" href="{{ 'device-icons/apple-icon-76x76' | relative_url }}">
-<link rel="apple-touch-icon" sizes="114x114" href="{{ 'device-icons/apple-icon-114x114' | relative_url }}">
-<link rel="apple-touch-icon" sizes="120x120" href="{{ 'device-icons/apple-icon-120x120' | relative_url }}">
-<link rel="apple-touch-icon" sizes="144x144" href="{{ 'device-icons/apple-icon-144x144' | relative_url }}">
-<link rel="apple-touch-icon" sizes="152x152" href="{{ 'device-icons/apple-icon-152x152' | relative_url }}">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ 'device-icons/apple-icon-180x180' | relative_url }}">
-<link rel="icon" type="image/png" sizes="192x192"  href="{{ 'device-icons/android-icon-192x192' | relative_url }}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ 'device-icons/favicon-32x32' | relative_url }}">
-<link rel="icon" type="image/png" sizes="96x96" href="{{ 'device-icons/favicon-96x96' | relative_url }}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ 'device-icons/favicon-16x16' | relative_url }}">
+<script src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
+<link rel="apple-touch-icon" sizes="57x57" href="{{ 'device-icons/apple-icon-57x57.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="60x60" href="{{ 'device-icons/apple-icon-60x60.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="72x72" href="{{ 'device-icons/apple-icon-72x72.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="76x76" href="{{ 'device-icons/apple-icon-76x76.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="114x114" href="{{ 'device-icons/apple-icon-114x114.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="120x120" href="{{ 'device-icons/apple-icon-120x120.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="144x144" href="{{ 'device-icons/apple-icon-144x144.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="152x152" href="{{ 'device-icons/apple-icon-152x152.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ 'device-icons/apple-icon-180x180.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="192x192"  href="{{ 'device-icons/android-icon-192x192.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ 'device-icons/favicon-32x32.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="96x96" href="{{ 'device-icons/favicon-96x96.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ 'device-icons/favicon-16x16.png' | relative_url }}">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="{{ 'device-icons/ms-icon-144x144.png' | relative_url }}">  
   </head>
   <body>
     
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+    <a class="skip-to-content" href="#content">Skip to the content.</a>
 
-  <div class="nav-wrapper">
+    <div class="nav-wrapper">
     <nav class="nav">
       <button class="toggle-nav" type="button" aria-label="main menu">
         <span class="burger -squeeze -offset">
@@ -42,7 +40,7 @@ layout: compress
         </span>
       </button>
       <a class="logo-link" href="#">
-        <img class="logo" id="logo" src= "{{ 'assets/logo_notext_coronasurveys.png' | relative_url }}" alt="Avatar">
+        <img class="logo" id="logo" src= "{{ 'assets/logo_notext_coronasurveys.png' | relative_url }}" alt="Coronasurveys Avatar">
       </a>
       <div class="nav-list" role="navigation">
         <ul class="list -left">
@@ -64,6 +62,9 @@ layout: compress
 	<li class="item">
             <a class="link" href="{{ '/data' | relative_url }}">Data</a>
           </li>
+	<li class="item">
+            <a class="link" href="https://github.com/GCGImdea/Coronasurveys-web">Github</a>
+          </li>
           <li class="item">
             <a class="link" href="{{ '/contact' | relative_url }}">Contact</a>
           </li>
@@ -74,35 +75,43 @@ layout: compress
       </div>
     </nav>
   </div>
-      <header class="page-header" role="banner">
+	  
+      <header class="page-header">
          <div class="logo">
-          <img src= "{{ 'assets/coronasurveys_logo.png' | relative_url }}" >
+          <img src= "{{ 'assets/coronasurveys_logo.png' | relative_url }}" alt="Coronasurveys Logo">
       </div>
 
       <h1 class="project-tagline">@CoronaSurveys: Monitoring the Incidence of COVID-19 via Open Surveys</h1>
     </header>
-    <main id="content" class="main-content" role="main">
+    <main id="content" class="main-content" tabindex="-1">
       {{ content }}
       <footer class="site-footer">
 	      <h3>Follow us!</h3>
 	      <h4>You can also follow us on social networks and share our work:</h4>
 <div class="centered">
-<a href="https://www.facebook.com/coronasurveys/" target="_blank" rel="noreferrer"><img src="{{ '/logos/other/facebook.png' | relative_url }}" height="50" width="50" alt="facebook link"></a> 
-<a href="https://twitter.com/coronasurveys" target="_blank" rel="noreferrer"><img src="{{ '/logos/other/twitter.png' | relative_url }}" height="50" width="50" alt="twitter link"></a> 
-<a href="https://www.instagram.com/coronasurveys/" target="_blank" rel="noreferrer"><img src="{{ '/logos/other/instagram.png' | relative_url }}" height="50" width="50" alt="instagram link"></a>
+<a href="https://www.facebook.com/coronasurveys/" target="_blank" rel="noreferrer"><img src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos/other/facebook.png' | relative_url }}" height="50" width="50" alt="Facebook Link" class="lozad"></a> 
+<a href="https://twitter.com/coronasurveys" target="_blank" rel="noreferrer"><img src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos/other/twitter.png' | relative_url }}" height="50" width="50" alt="Twitter Link" class="lozad"></a> 
+<a href="https://www.instagram.com/coronasurveys/" target="_blank" rel="noreferrer"><img src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos/other/instagram.png' | relative_url }}" height="50" width="50" alt="Instagram Link" class="lozad"></a>
 </div>
-<a href="mailto:coronasurveys@gmail.com" ><center><font size="2"><u class="btn">Email</u></font></center></a>
+<u class="btn"><a href="mailto:coronasurveys@gmail.com" >Email Us</a></u> 
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
         <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> and designed by <a href="https://www.facebook.com/skyhavenmedia/" target="_blank" rel="noreferrer">Skyhaven Media</a></span>
       </footer>
     </main>
-<script type="text/javascript" src="{{ 'assets/tarteaucitron/tarteaucitron.js' | relative_url}}"></script>
+<script>
+const observer = lozad(); // lazy loads elements with default selector as '.lozad'
+observer.observe();
+</script>
+<script src="{{ 'assets/js/simply-nav.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/mapdata.js' | relative_url }}"></script>   
+<script src="{{ '/assets/js/worldmap.js' | relative_url }}"></script>
+<script src="{{ 'assets/tarteaucitron/tarteaucitron.js' | relative_url}}"></script>
 
-        <script type="text/javascript">
+        <script>
         tarteaucitron.init({
-    	  "privacyUrl": "/cookiespolicy", /* Privacy policy url */
+    	  "privacyUrl": "https://coronasurveys.org/privacy-cookies", /* Privacy policy url */
 
     	  "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
     	  "cookieName": "tarteaucitron", /* Cookie name */
@@ -122,25 +131,18 @@ layout: compress
 
     	  //"cookieDomain": ".my-multisite-domaine.fr", /* Shared cookie for multisite */
                           
-    	  // "readmoreLink": "/cookiespolicy" /* Change the default readmore link */
+    	  //"readmoreLink": "" /* Change the default readmore link */
         });
         </script>
 
-        <script type="text/javascript">
-        tarteaucitron.user.gtagUa = 'XXXXXXX';
+        <script>
+        tarteaucitron.user.gtagUa = 'UA-165674370-1';
         tarteaucitron.user.gtagMore = function () {
        		function gtag(){dataLayer.push(arguments);} // Récupéré dans tarteaucitron.services.js
        		gtag('config', tarteaucitron.user.gtagUa, { 'anonymize_ip': true });
 };
         (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
         </script>
-<script>
-const observer = lozad(); // lazy loads elements with default selector as '.lozad'
-observer.observe();
-</script>
 </body>
-<script src="{{ 'assets/js/simply-nav.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/mapdata.js' | relative_url }}"></script>   
-<script src="{{ '/assets/js/worldmap.js' | relative_url }}"></script>
 </html>
     
