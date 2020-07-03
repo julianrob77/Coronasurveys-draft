@@ -7,7 +7,6 @@ You can help by regularly completing the anonymous survey.
 
 ### Supported By:
 <div class="module">
-	<h2>Basic examples</h2>
 	<ul class="scroll1">
 		<li><a href="test.com"><img src="https://placeimg.com/400/300/people" alt="test" /></a></li>
 		<li><img src="https://placeimg.com/400/300/tech" alt="" /></li>
@@ -15,7 +14,6 @@ You can help by regularly completing the anonymous survey.
 		<li><img src="https://placeimg.com/400/300/animals" alt="" /></li>
 		<li><img src="https://placeimg.com/400/300/arch/sepia" alt="" /></li>
 	</ul>
-	
 	<pre><code class="javascript">
 $('.scroll1').infiniteslide();
 	</code></pre>
