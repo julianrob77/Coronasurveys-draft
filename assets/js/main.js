@@ -1,4 +1,5 @@
-$(window).on('load', function(){
+$(window).on("load", function(){
+   $.ready.then(function(){
   initSmoothScrolling('.carousel','smoothscroll');
 });
 
@@ -32,3 +33,4 @@ function initSmoothScrolling(container,animation){
 		$(this).addClass(cl);
 	});
 }
+});
