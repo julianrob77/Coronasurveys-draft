@@ -30,6 +30,6 @@ function initSmoothScrolling(container,animation){
 	var cl = $(container).attr("class");
 	$(container).removeClass(cl).animate({'nothing':null}, 1, function () {
 		$(this).addClass(cl);
-		cconsole.log( "the end" );
+		console.log( "the end" );
 	});
 }
