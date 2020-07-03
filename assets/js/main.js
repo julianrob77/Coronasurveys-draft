@@ -1,4 +1,4 @@
-jQuery(function($){
+$(window).on('load', function(){
   initSmoothScrolling('.carousel','smoothscroll');
 });
 function initSmoothScrolling(container,animation){
