@@ -14,9 +14,6 @@ You can help by regularly completing the anonymous survey.
 		<li><img src="https://placeimg.com/400/300/animals" alt="" /></li>
 		<li><img src="https://placeimg.com/400/300/arch/sepia" alt="" /></li>
 	</ul>
-	<pre><code class="javascript">
-$('.scroll1').infiniteslide();
-	</code></pre>
 </div>
 <div id="logos_resized-main">
    <!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
