@@ -1,4 +1,4 @@
-$(window).on('load', function(){
+$().ready(function(){
   initSmoothScrolling('.carousel','smoothscroll');
 });
 
