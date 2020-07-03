@@ -6,28 +6,19 @@ The results below present estimations on the incidence of COVID-19 from this and
 You can help by regularly completing the anonymous survey.
 
 ### Supported By:
-<div class="carousel">
-  <div class="animation">
-    <div class="first">
-      <img src="https://fpoimg.com/200x200?text=First">
-    </div>
-    <div>
-      <img src="https://fpoimg.com/200x200?text=Second">
-    </div>
-    <div>
-      <img src="https://fpoimg.com/200x200?text=Third">
-    </div>
-    <div>
-      <img src="https://fpoimg.com/200x200">
-    </div>
-    <div>
-      <img src="https://fpoimg.com/200x200">
-    </div>
-    <div>
-      <img src="https://fpoimg.com/200x200">
-    </div>
-    <!-- cut -->
-  </div>
+<div class="module">
+	<h2>Basic examples</h2>
+	<ul class="scroll1">
+		<li><a href="test.com"><img src="https://placeimg.com/400/300/people" alt="test" /></a></li>
+		<li><img src="https://placeimg.com/400/300/tech" alt="" /></li>
+		<li><img src="https://placeimg.com/400/300/arch" alt="" /></li>
+		<li><img src="https://placeimg.com/400/300/animals" alt="" /></li>
+		<li><img src="https://placeimg.com/400/300/arch/sepia" alt="" /></li>
+	</ul>
+	
+	<pre><code class="javascript">
+$('.scroll1').infiniteslide();
+	</code></pre>
 </div>
 <div id="logos_resized-main">
    <!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
