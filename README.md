@@ -9,22 +9,22 @@ You can help by regularly completing the anonymous survey.
 <div class="carousel">
   <div class="animation">
     <div class="first">
-      <img src="http://fpoimg.com/200x200?text=First">
+      <img src="https://fpoimg.com/200x200?text=First">
     </div>
     <div>
-      <img src="http://fpoimg.com/200x200?text=Second">
+      <img src="https://fpoimg.com/200x200?text=Second">
     </div>
     <div>
-      <img src="http://fpoimg.com/200x200?text=Third">
+      <img src="https://fpoimg.com/200x200?text=Third">
     </div>
     <div>
-      <img src="http://fpoimg.com/200x200">
+      <img src="https://fpoimg.com/200x200">
     </div>
     <div>
-      <img src="http://fpoimg.com/200x200">
+      <img src="https://fpoimg.com/200x200">
     </div>
     <div>
-      <img src="http://fpoimg.com/200x200">
+      <img src="https://fpoimg.com/200x200">
     </div>
     <!-- cut -->
   </div>
