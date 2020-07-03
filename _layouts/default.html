@@ -24,7 +24,42 @@
 <link rel="icon" type="image/png" sizes="96x96" href="{{ 'device-icons/favicon-96x96.png' | relative_url }}">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ 'device-icons/favicon-16x16.png' | relative_url }}">
 <meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="{{ 'device-icons/ms-icon-144x144.png' | relative_url }}">  	  
+<meta name="msapplication-TileImage" content="{{ 'device-icons/ms-icon-144x144.png' | relative_url }}">  
+	  
+<script type="text/javascript">
+	$(function(){
+		$('.scroll1').infiniteslide({
+				'speed': 100, 
+				'direction': 'left', 
+				'pauseonhover': false, 
+				'responsive': false, 
+				'clone': 0
+			});
+		$('.scroll2').infiniteslide({
+			speed: 100,
+			direction: 'right'
+		});
+		$('.scroll3').infiniteslide({
+			speed: 300,
+			direction: 'down'
+		});
+		$('.scroll4').infiniteslide({
+			pauseonhover: false
+		});
+		$('.scroll5').infiniteslide({
+			speed: 50
+		});
+		$('.scroll6').infiniteslide({
+			speed: 200,
+			responsive: true
+		});
+		$('.scroll7').infiniteslide({
+			direction: 'right',
+			clone: 10
+		});
+	});
+</script>
+
   </head>
   <body>
     <a class="skip-to-content" href="#content">Skip to the content.</a>
