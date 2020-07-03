@@ -6,6 +6,29 @@ The results below present estimations on the incidence of COVID-19 from this and
 You can help by regularly completing the anonymous survey.
 
 ### Supported By:
+<div class="carousel">
+  <div class="animation">
+    <div class="first">
+      <img src="http://fpoimg.com/200x200?text=First">
+    </div>
+    <div>
+      <img src="http://fpoimg.com/200x200?text=Second">
+    </div>
+    <div>
+      <img src="http://fpoimg.com/200x200?text=Third">
+    </div>
+    <div>
+      <img src="http://fpoimg.com/200x200">
+    </div>
+    <div>
+      <img src="http://fpoimg.com/200x200">
+    </div>
+    <div>
+      <img src="http://fpoimg.com/200x200">
+    </div>
+    <!-- cut -->
+  </div>
+</div>
 <div id="logos_resized-main">
    <!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
          <a href="https://www.networks.imdea.org/" rel="noreferrer">
