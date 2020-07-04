@@ -6,7 +6,7 @@ The results below present estimations on the incidence of COVID-19 from this and
 You can help by regularly completing the anonymous survey.
 
 ### Supported By:
-div class="block">
+<div class="carousel">
   <div class="animation">
     <div class="first">
       <img src="https://fpoimg.com/200x200?text=First">
