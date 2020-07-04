@@ -12,7 +12,7 @@ function initSmoothScrolling(container,animation){
 	var sliderHeight = $('>div>div:first-of-type',container).outerHeight(false);
 
 	$('>div>div', container).each(function(){				
-		animationWidth += $(this).outerWidth(false);		
+	animationWidth += $(this).outerWidth(false);		
 	});
 	var slidesVisible = $(container).width() / $('>div>div:first-of-type',container).outerWidth(false);	
 	slidesVisible = Math.ceil(slidesVisible);
