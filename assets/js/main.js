@@ -1,4 +1,9 @@
-$(window).on('load', function(){
+
+(function($){
+	$(window).on('load', function() {
+	    window.loaded = true;
+	});
+	$(function(){
   initSmoothScrolling('.carousel','smoothscroll');
 });
 function initSmoothScrolling(container,animation){
@@ -25,3 +30,4 @@ function initSmoothScrolling(container,animation){
 		console.log( "the end" );
 	});
 }
+})(jQuery);
