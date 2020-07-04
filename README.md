@@ -6,6 +6,7 @@ The results below present estimations on the incidence of COVID-19 from this and
 You can help by regularly completing the anonymous survey.
 
 ### Supported By:
+<div data-toggle-class="active" class="lozad">
 <div class="module">
    <ul class="scroll1">
       <li><a href="https://www.networks.imdea.org/" rel="noreferrer">
@@ -50,6 +51,7 @@ You can help by regularly completing the anonymous survey.
          <li><a href="http://inqbarna.com" rel="noreferrer">
          <img src="{{ '/logos_resized/inqbarna_com_logo_rectangular.jpg' | relative_url }}" height="60" alt="Inqbarna Logo"></a></li>
    </ul>
+</div>
 </div>
 
 ### Contribute and fill the anonymous survey for a country:
