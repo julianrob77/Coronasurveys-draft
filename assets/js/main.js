@@ -17,7 +17,7 @@ function initSmoothScrolling(container,animation){
 	var slidesVisible = $(container).width() / $('>div>div:first-of-type',container).outerWidth(false);	
 	slidesVisible = Math.ceil(slidesVisible);
 	var slidesNumber = $('>div>div', container).length;
-	var speed = slidesNumber*2;
+	var speed = slidesNumber*5;
 	$('>div>div',container).slice(0,slidesVisible).clone().appendTo($('>div',container));	
 	$('>div>div', container).each(function(){
 		sliderWidth += $(this).outerWidth(false);
