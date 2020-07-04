@@ -6,56 +6,6 @@ The results below present estimations on the incidence of COVID-19 from this and
 You can help by regularly completing the anonymous survey.
 
 ### Supported By:
-<div class="carousel">
-  <div class="animation">
-    <div class="first">
-         <div><a href="https://www.networks.imdea.org/" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png' | relative_url }}" data-src="{{ '/logos_resized/imdea-networks-positivo-color.jpg' | relative_url }}" height="60" alt="IMDEA Logo">
-         </a></div> 
-         <div><a href="https://www.ucy.ac.cy/en/" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png' | relative_url }}" data-src="{{ '/logos_resized/University_of_Cyprus_2gr.jpg' | relative_url }}" height="60" alt="Univerity of Cyprus Logo">
-         </a></div> 
-         <div><a href="https://www.algolysis.com/" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png' | relative_url }}" data-src="{{ '/logos_resized/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg' | relative_url }}" height="60" alt="Algolysis Logo">
-         </a></div> 
-         <div><a href="https://viterbischool.usc.edu/" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png' | relative_url }}" data-src="{{ '/logos_resized/Formal_Viterbi_CardOnWhite.jpg' | relative_url }}" height="60" alt="ViterbiSchool Logo">
-         </a></div> 
-         <div><a href="https://www.tu-darmstadt.de/index.en.jsp" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png' | relative_url }}" data-src="{{ '/logos_resized/tud_logo.jpg' | relative_url }}" height="60" alt="Technical University (TU) of Darmstadt Logo">
-         </a></div> 
-         <div><a href="https://www.tuat.ac.jp/en/" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png' | relative_url }}" data-src="{{ '/logos_resized/tat_2.jpg' | relative_url }}" height="60" alt="TUAT Logo">
-         </a></div> 
-         <div><a href="https://www.ed.ac.uk/informatics" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png' | relative_url }}" data-src="{{ '/logos_resized/InformaticsUni_transparent.jpg' | relative_url }}" height="60" alt="University of Edinburgh School Of Informatics Logo">
-         </a></div> 
-         <div><a href="https://www.uminho.pt/EN" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png' | relative_url }}" data-src="{{ '/logos_resized/UMinho.jpg' | relative_url }}" height="60" alt="University of Minho Logo">
-         </a></div> 
-         <div><a href="https://www.inesctec.pt/en" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png' | relative_url }}" data-src="{{ '/logos_resized/inesctec.jpg' | relative_url }}" height="60" alt="Inesctec Logo">
-         </a></div> 
-         <div><a href="https://www.unitn.it/en/" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png' | relative_url }}" data-src="{{ '/logos_resized/newlogo_unitn_it.jpg' | relative_url }}" height="60" alt="University Of Trento Logo">
-         </a></div> 
-         <div><a href="https://www.washington.edu/" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png' | relative_url }}" data-src="{{ '/logos_resized/Logo-UW.jpg' | relative_url }}" height="60" alt="University Of Washington Logo">
-         </a></div> 
-         <div><a href="https://www.ibidat.es" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png' | relative_url }}" data-src="{{ '/logos_resized/IBIDat-logo-name-v.svg.jpg' | relative_url }}" height="60" alt="Ibidat Logo">
-         </a></div>
-         <div><a href="https://skyhaven.co.uk" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png' | relative_url }}" data-src="{{ '/logos_resized/skyhaven_logo_new.jpg' | relative_url }}" height="60" alt="Skyhaven Media Logo">
-         </a></div>
-         <div><a href="http://inqbarna.com" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png' | relative_url }}" data-src="{{ '/logos_resized/inqbarna_com_logo_rectangular.jpg' | relative_url }}" height="60" alt="Inqbarna Logo"></a></div>
-</div>
-    <!-- cut -->
-  </div>
-</div>
-
-
 <div id="logos_resized-main">
    <!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
          <a href="https://www.networks.imdea.org/" rel="noreferrer">
