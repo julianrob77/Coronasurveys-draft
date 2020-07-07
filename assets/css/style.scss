@@ -233,8 +233,11 @@ div#map_holder {
 }
 } 
 
-@media (max-width: 768px) {
-	
+img.ical {
+    width: 30%;
+}
+
+@media (max-width: 768px) {	
 .btn {
     width: 100%;
 }	
