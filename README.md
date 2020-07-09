@@ -51,7 +51,6 @@ You can help by regularly completing the anonymous survey.
          <li><a href="http://inqbarna.com" rel="noreferrer">
          <img src="{{ '/assets/FFFFFF-1.png' | relative_url }}" data-src="{{ '/logos_resized/inqbarna_com_logo_rectangular.jpg' | relative_url }}" height="60" alt="Inqbarna Logo"></a></li>
    </ul>
-   </ul>
 </div>
 </div>
 
