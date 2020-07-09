@@ -9,7 +9,7 @@ You can help by regularly completing the anonymous survey.
 <div data-toggle-class="active" class="lozad">
 <div class="module">
    <ul class="scroll1">
-li><a href="https://www.networks.imdea.org/" rel="noreferrer">
+<li><a href="https://www.networks.imdea.org/" rel="noreferrer">
          <img src="{{ '/assets/FFFFFF-1.png' | relative_url }}" data-src="{{ '/logos_resized/imdea-networks-positivo-color.jpg' | relative_url }}" height="60" alt="IMDEA Logo">
          </a></li> 
          <li><a href="https://www.ucy.ac.cy/en/" rel="noreferrer">
